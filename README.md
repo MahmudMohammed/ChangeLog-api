@@ -15,7 +15,3 @@ $ npm install
 # development
 $ npm start
 
-# watch mode
-$ npm start
-
-```
